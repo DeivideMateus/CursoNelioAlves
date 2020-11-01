@@ -1,0 +1,13 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\bin\Debug\netcoreapp3.1\PostComment.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\PostComment\obj\Debug\netcoreapp3.1\PostComment.genruntimeconfig.cache
