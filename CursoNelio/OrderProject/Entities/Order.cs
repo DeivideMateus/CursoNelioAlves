@@ -44,7 +44,17 @@ namespace OrderProject.Entities
 
             return total;
         }
-    
-    
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine("ORDER SUMMARY:");
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status.ToString());
+            sb.AppendLine("Client: ");
+        }
+
+
     }
 }

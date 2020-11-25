@@ -6,9 +6,9 @@ namespace OrderProject.Entities.Enums
 {
     enum OrderStatus : int
     {
-        PENDING_PAYMENT = 0,
-        PROCESSING = 1,
-        SHIPPED = 2,
-        DELIVERED = 3
+        Pending_Payment = 0,
+        Processing = 1,
+        Shipped = 2,
+        Delivered = 3
     }
 }
