@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoNelio", "CursoNelio\CursoNelio.csproj", "{5A13FB3C-E4CF-4A4A-B388-23F30F55BEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostComment", "PostComment\PostComment.csproj", "{784D42EE-A1DA-40EE-9F5C-D72F0906DE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostComment", "PostComment\PostComment.csproj", "{784D42EE-A1DA-40EE-9F5C-D72F0906DE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProject", "OrderProject\OrderProject.csproj", "{55B60317-4E99-4A97-81C8-FCA76F4E54FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{784D42EE-A1DA-40EE-9F5C-D72F0906DE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784D42EE-A1DA-40EE-9F5C-D72F0906DE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784D42EE-A1DA-40EE-9F5C-D72F0906DE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B60317-4E99-4A97-81C8-FCA76F4E54FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B60317-4E99-4A97-81C8-FCA76F4E54FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B60317-4E99-4A97-81C8-FCA76F4E54FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B60317-4E99-4A97-81C8-FCA76F4E54FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
