@@ -20,13 +20,22 @@ namespace OrderProject.Entities
         public OrderItem(int quantity, Product product)
         {
             Quantity = quantity;
-            Price = product.Price;      
+            Price = product.Price;
             Product = product;
         }
 
         public double SubTotal()
         {
             return Quantity * Price;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.Append(Product.Name + ", " + Price + ", Quantity: " + Quantity + ", Subtotal: $" + SubTotal());
+
+            return sb.ToString();
         }
     }
 }

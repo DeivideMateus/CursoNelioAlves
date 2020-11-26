@@ -28,7 +28,7 @@ namespace OrderProject
 
             for (int i = 1; i <= numItems; i++)
             {
-                Console.WriteLine($"Enter #{0} item data:", i);
+                Console.WriteLine($"Enter #" + i + " item data:");
                 Console.Write("Product name: ");
                 string productName = Console.ReadLine();
                 Console.Write("Product price: ");
@@ -39,6 +39,8 @@ namespace OrderProject
                 OrderItem orderItem = new OrderItem(quantity, product);
                 order.AddItem(orderItem);
             }
+
+            Console.WriteLine(order);
 
 
         }

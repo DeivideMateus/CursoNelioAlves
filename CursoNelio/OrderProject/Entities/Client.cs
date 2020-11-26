@@ -7,7 +7,7 @@ namespace OrderProject.Entities
     class Client
     {
         public string Name { get; set; }
-        public string  Email { get; set; }
+        public string Email { get; set; }
         public DateTime BirthDate { get; set; }
 
         public Client()
@@ -19,6 +19,15 @@ namespace OrderProject.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.Append(Name + "(" + BirthDate.Date + ") - " + Email);
+
+            return sb.ToString();
         }
     }
 }

@@ -52,7 +52,18 @@ namespace OrderProject.Entities
             sb.AppendLine("ORDER SUMMARY:");
             sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
             sb.AppendLine("Order status: " + Status.ToString());
-            sb.AppendLine("Client: ");
+            sb.AppendLine("Client: " + Client.ToString());
+            sb.AppendLine("Order items:");
+
+            foreach (OrderItem item in Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+
+            sb.Append("Total price: $" + Total());
+
+            return sb.ToString();
+
         }
 
 
