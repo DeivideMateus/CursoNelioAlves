@@ -1,6 +1,7 @@
 ﻿using OrderProject.Entities.Enums;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace OrderProject.Entities
@@ -35,7 +36,7 @@ namespace OrderProject.Entities
 
         public double Total()
         {
-            double total = 0;
+            double total = 0.0;
 
             foreach (OrderItem item in Items)
             {
@@ -51,8 +52,8 @@ namespace OrderProject.Entities
 
             sb.AppendLine("ORDER SUMMARY:");
             sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.AppendLine("Order status: " + Status.ToString());
-            sb.AppendLine("Client: " + Client.ToString());
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
             sb.AppendLine("Order items:");
 
             foreach (OrderItem item in Items)
@@ -60,7 +61,7 @@ namespace OrderProject.Entities
                 sb.AppendLine(item.ToString());
             }
 
-            sb.Append("Total price: $" + Total());
+            sb.Append("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
 
             return sb.ToString();
 

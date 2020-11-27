@@ -36,11 +36,11 @@ namespace OrderProject
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
                 Product product = new Product(productName, productPrice);
-                OrderItem orderItem = new OrderItem(quantity, product);
+                OrderItem orderItem = new OrderItem(quantity, productPrice, product);
                 order.AddItem(orderItem);
             }
 
-            Console.WriteLine(order);
+            Console.WriteLine("\n" + order);
 
 
         }

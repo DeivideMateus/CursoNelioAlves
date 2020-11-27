@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\OrderProject\\OrderProject.csproj": {}
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\HeritageExercise\\HeritageExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\OrderProject\\OrderProject.csproj": {
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\HeritageExercise\\HeritageExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\OrderProject\\OrderProject.csproj",
-        "projectName": "OrderProject",
-        "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\OrderProject\\OrderProject.csproj",
+        "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\HeritageExercise\\HeritageExercise.csproj",
+        "projectName": "HeritageExercise",
+        "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\HeritageExercise\\HeritageExercise.csproj",
         "packagesPath": "C:\\Users\\deivide.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\OrderProject\\obj\\",
+        "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\HeritageExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

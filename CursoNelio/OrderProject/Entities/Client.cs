@@ -25,7 +25,7 @@ namespace OrderProject.Entities
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(Name + "(" + BirthDate.Date + ") - " + Email);
+            sb.Append(Name + "(" + BirthDate.ToString("dd/MM/yyyy") + ") - " + Email);
 
             return sb.ToString();
         }
