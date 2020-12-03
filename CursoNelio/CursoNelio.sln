@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnumComposi", "EnumComposi"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HerancaPoli", "HerancaPoli", "{267A6098-3770-47D4-B71C-C04870AFE9DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeritageExercise", "HeritageExercise\HeritageExercise.csproj", "{3B21CF06-DDCB-4462-87BF-992609291159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeritageExercise", "HeritageExercise\HeritageExercise.csproj", "{3B21CF06-DDCB-4462-87BF-992609291159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSolved1", "ExerciseSolved1\ExerciseSolved1.csproj", "{2F3FD5BB-8369-4E97-83F7-67500F65774C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{3B21CF06-DDCB-4462-87BF-992609291159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B21CF06-DDCB-4462-87BF-992609291159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B21CF06-DDCB-4462-87BF-992609291159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3FD5BB-8369-4E97-83F7-67500F65774C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3FD5BB-8369-4E97-83F7-67500F65774C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3FD5BB-8369-4E97-83F7-67500F65774C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3FD5BB-8369-4E97-83F7-67500F65774C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{784D42EE-A1DA-40EE-9F5C-D72F0906DE66} = {1095B441-7DBB-4052-AEA3-96CC29D1518B}
 		{55B60317-4E99-4A97-81C8-FCA76F4E54FE} = {1095B441-7DBB-4052-AEA3-96CC29D1518B}
 		{3B21CF06-DDCB-4462-87BF-992609291159} = {267A6098-3770-47D4-B71C-C04870AFE9DF}
+		{2F3FD5BB-8369-4E97-83F7-67500F65774C} = {267A6098-3770-47D4-B71C-C04870AFE9DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F9BB915-0952-4338-A276-EAF2633A8F79}
