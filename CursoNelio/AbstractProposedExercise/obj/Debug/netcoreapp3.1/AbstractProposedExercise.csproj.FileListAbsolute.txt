@@ -1,0 +1,13 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.genruntimeconfig.cache
