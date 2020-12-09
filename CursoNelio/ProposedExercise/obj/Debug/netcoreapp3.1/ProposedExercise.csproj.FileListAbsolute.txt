@@ -11,3 +11,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ProposedExercise\ob
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\bin\Debug\netcoreapp3.1\ProposedExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ProposedExercise\obj\Debug\netcoreapp3.1\ProposedExercise.genruntimeconfig.cache
