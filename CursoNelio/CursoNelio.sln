@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractProposedExercise", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{237DFE3B-703B-44DD-A820-AC5575F5D805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservationExercise", "ReservationExercise\ReservationExercise.csproj", "{3820C9E3-9838-4FDD-9EAA-376499E95C83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReservationExercise", "ReservationExercise\ReservationExercise.csproj", "{3820C9E3-9838-4FDD-9EAA-376499E95C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountExercise", "AccountExercise\AccountExercise.csproj", "{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{3820C9E3-9838-4FDD-9EAA-376499E95C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3820C9E3-9838-4FDD-9EAA-376499E95C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3820C9E3-9838-4FDD-9EAA-376499E95C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{EDEAECBC-F067-45D7-B046-D30DC1BF1E7E} = {267A6098-3770-47D4-B71C-C04870AFE9DF}
 		{341C29A3-ED8C-4078-B7AC-878FC51A09B9} = {267A6098-3770-47D4-B71C-C04870AFE9DF}
 		{3820C9E3-9838-4FDD-9EAA-376499E95C83} = {237DFE3B-703B-44DD-A820-AC5575F5D805}
+		{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D} = {237DFE3B-703B-44DD-A820-AC5575F5D805}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F9BB915-0952-4338-A276-EAF2633A8F79}

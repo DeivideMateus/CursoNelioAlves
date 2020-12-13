@@ -1,0 +1,13 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.genruntimeconfig.cache
