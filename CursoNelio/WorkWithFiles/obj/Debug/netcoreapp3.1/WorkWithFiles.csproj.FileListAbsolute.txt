@@ -1,0 +1,13 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.csprojAssemblyReference.cache
