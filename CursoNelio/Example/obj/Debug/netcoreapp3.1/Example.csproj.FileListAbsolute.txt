@@ -10,3 +10,4 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\Example\obj\Debug\n
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\Example\obj\Debug\netcoreapp3.1\Example.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\Example\obj\Debug\netcoreapp3.1\Example.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\Example\obj\Debug\netcoreapp3.1\Example.csprojAssemblyReference.cache
