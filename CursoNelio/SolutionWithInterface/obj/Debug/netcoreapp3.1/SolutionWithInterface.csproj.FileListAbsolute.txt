@@ -1,0 +1,12 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.genruntimeconfig.cache
