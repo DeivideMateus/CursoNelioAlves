@@ -7,15 +7,14 @@ namespace InterfaceExercise.Services
     class PaypalService : IOnlinePaymentService
     {
 
-
-        public double Interest(double amount, int months)
+        public double Interest(double amount, int month)
         {
-            throw new NotImplementedException();
+            return PaymentFee(amount + (amount * 0.01) * month);
         }
 
         public double PaymentFee(double amount)
         {
-            throw new NotImplementedException();
+            return amount + (amount * 0.02);
         }
     }
 }
