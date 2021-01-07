@@ -4,7 +4,9 @@ using System.Text;
 
 namespace InterfaceExercise.Services
 {
-    class IOnlinePaymentService
+    interface IOnlinePaymentService
     {
+        double PaymentFee(double amount);
+        double Interest(double amount, int months);
     }
 }
