@@ -1,0 +1,13 @@
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\bin\Debug\netcoreapp3.1\InterfaceWithHeritage.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceWithHeritage\obj\Debug\netcoreapp3.1\InterfaceWithHeritage.genruntimeconfig.cache
