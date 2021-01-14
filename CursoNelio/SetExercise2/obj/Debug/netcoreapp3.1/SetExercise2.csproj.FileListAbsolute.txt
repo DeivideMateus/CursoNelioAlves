@@ -1,0 +1,12 @@
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\bin\Debug\netcoreapp3.1\SetExercise2.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.genruntimeconfig.cache
