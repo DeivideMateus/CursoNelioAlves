@@ -1,0 +1,13 @@
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\bin\Debug\netcoreapp3.1\ExtensionMethodsExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExtensionMethodsExercise\obj\Debug\netcoreapp3.1\ExtensionMethodsExercise.genruntimeconfig.cache
