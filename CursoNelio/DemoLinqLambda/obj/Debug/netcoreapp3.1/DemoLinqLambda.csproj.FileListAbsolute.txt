@@ -1,0 +1,13 @@
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\bin\Debug\netcoreapp3.1\DemoLinqLambda.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DemoLinqLambda\obj\Debug\netcoreapp3.1\DemoLinqLambda.genruntimeconfig.cache
