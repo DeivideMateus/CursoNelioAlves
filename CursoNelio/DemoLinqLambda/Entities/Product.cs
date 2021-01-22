@@ -19,7 +19,7 @@ namespace DemoLinqLambda.Entities
                 + Name
                 + ", "
                 + Price.ToString("F2", CultureInfo.InvariantCulture)
-                + ","
+                + ", "
                 + Category.Name
                 + ", "
                 + Category.Tier;

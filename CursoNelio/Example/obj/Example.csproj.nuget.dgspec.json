@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj": {}
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj": {
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj",
+        "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj",
-        "packagesPath": "C:\\Users\\Deivide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\Example\\obj\\",
+        "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\Example\\Example.csproj",
+        "packagesPath": "C:\\Users\\deivide.nascimento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\Example\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Deivide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deivide.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
