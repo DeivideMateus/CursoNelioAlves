@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodsExercise", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinqLambda", "LinqLambda", "{5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLinqLambda", "DemoLinqLambda\DemoLinqLambda.csproj", "{44A48756-6225-4F43-9C03-2A1CB9C17B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLinqLambda", "DemoLinqLambda\DemoLinqLambda.csproj", "{44A48756-6225-4F43-9C03-2A1CB9C17B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSolved", "ExerciseSolved\ExerciseSolved.csproj", "{E1C91866-439B-4A8D-9689-9D5104779DF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +159,10 @@ Global
 		{44A48756-6225-4F43-9C03-2A1CB9C17B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A48756-6225-4F43-9C03-2A1CB9C17B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A48756-6225-4F43-9C03-2A1CB9C17B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +190,7 @@ Global
 		{3B36C0CB-0E53-41F7-8C11-AC8F52B16520} = {08CC08DA-A7A3-475D-AE3E-44E1902A3B44}
 		{4B26399E-750A-452F-9C7F-D109B23FFFBF} = {ECB02F29-A679-4436-A21F-E72E8D545616}
 		{44A48756-6225-4F43-9C03-2A1CB9C17B3D} = {5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}
+		{E1C91866-439B-4A8D-9689-9D5104779DF0} = {5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F9BB915-0952-4338-A276-EAF2633A8F79}
