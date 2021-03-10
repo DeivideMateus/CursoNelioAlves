@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostComment", "PostComment\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProject", "OrderProject\OrderProject.csproj", "{55B60317-4E99-4A97-81C8-FCA76F4E54FE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnumComposi", "EnumComposi", "{1095B441-7DBB-4052-AEA3-96CC29D1518B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 EnumComposi", "1 EnumComposi", "{1095B441-7DBB-4052-AEA3-96CC29D1518B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HerancaPoli", "HerancaPoli", "{267A6098-3770-47D4-B71C-C04870AFE9DF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 HerancaPoli", "5 HerancaPoli", "{267A6098-3770-47D4-B71C-C04870AFE9DF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeritageExercise", "HeritageExercise\HeritageExercise.csproj", "{3B21CF06-DDCB-4462-87BF-992609291159}"
 EndProject
@@ -23,19 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClassExercise", "Ab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractProposedExercise", "AbstractProposedExercise\AbstractProposedExercise.csproj", "{341C29A3-ED8C-4078-B7AC-878FC51A09B9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{237DFE3B-703B-44DD-A820-AC5575F5D805}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Exceptions", "2 Exceptions", "{237DFE3B-703B-44DD-A820-AC5575F5D805}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReservationExercise", "ReservationExercise\ReservationExercise.csproj", "{3820C9E3-9838-4FDD-9EAA-376499E95C83}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountExercise", "AccountExercise\AccountExercise.csproj", "{02D95EE1-9B3C-4307-B8C0-FF75CFB50C3D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkWithFiles", "WorkWithFiles", "{F5C7B57C-5CA1-4721-847D-83D3CB64D321}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 WorkWithFiles", "8 WorkWithFiles", "{F5C7B57C-5CA1-4721-847D-83D3CB64D321}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{2FEDE020-A239-4AA8-B0F3-F18D1D059EC3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesExercise", "FilesExercise\FilesExercise.csproj", "{35497DDB-EDF2-4D84-8E4D-A17134FDF711}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{BC5C84A7-044B-4E8C-9AD9-A33676DA2C8B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 Interfaces", "6 Interfaces", "{BC5C84A7-044B-4E8C-9AD9-A33676DA2C8B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolutionWithoutInterface", "SolutionWithoutInterface\SolutionWithoutInterface.csproj", "{635B47E7-20F3-44C7-BC88-911D99C1847D}"
 EndProject
@@ -45,7 +45,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExercise", "Interf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceWithHeritage", "InterfaceWithHeritage\InterfaceWithHeritage.csproj", "{E37166CF-700F-47CB-897C-18C29BBA4A2E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericsCollections", "GenericsCollections", "{08CC08DA-A7A3-475D-AE3E-44E1902A3B44}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 GenericsCollections", "4 GenericsCollections", "{08CC08DA-A7A3-475D-AE3E-44E1902A3B44}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsExercise", "SetsExercise\SetsExercise.csproj", "{3DD94DA4-1B50-4B33-93A6-4FB7E5DAF00D}"
 EndProject
@@ -55,15 +55,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExercise", "Dicti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExercise2", "DictionaryExercise2\DictionaryExercise2.csproj", "{3B36C0CB-0E53-41F7-8C11-AC8F52B16520}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtensionMethods", "ExtensionMethods", "{ECB02F29-A679-4436-A21F-E72E8D545616}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 ExtensionMethods", "3 ExtensionMethods", "{ECB02F29-A679-4436-A21F-E72E8D545616}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodsExercise", "ExtensionMethodsExercise\ExtensionMethodsExercise.csproj", "{4B26399E-750A-452F-9C7F-D109B23FFFBF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinqLambda", "LinqLambda", "{5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 LinqLambda", "7 LinqLambda", "{5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLinqLambda", "DemoLinqLambda\DemoLinqLambda.csproj", "{44A48756-6225-4F43-9C03-2A1CB9C17B3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSolved", "ExerciseSolved\ExerciseSolved.csproj", "{E1C91866-439B-4A8D-9689-9D5104779DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseSolved", "ExerciseSolved\ExerciseSolved.csproj", "{E1C91866-439B-4A8D-9689-9D5104779DF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 MVC", "9 MVC", "{65FF82C8-2328-4CE8-A234-83D68E995C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWebMvc", "SalesWebMvc\SalesWebMvc.csproj", "{1556231C-EB98-4D17-8074-7A8F2CAA3A3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -163,6 +167,10 @@ Global
 		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1C91866-439B-4A8D-9689-9D5104779DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1556231C-EB98-4D17-8074-7A8F2CAA3A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1556231C-EB98-4D17-8074-7A8F2CAA3A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1556231C-EB98-4D17-8074-7A8F2CAA3A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1556231C-EB98-4D17-8074-7A8F2CAA3A3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -191,6 +199,7 @@ Global
 		{4B26399E-750A-452F-9C7F-D109B23FFFBF} = {ECB02F29-A679-4436-A21F-E72E8D545616}
 		{44A48756-6225-4F43-9C03-2A1CB9C17B3D} = {5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}
 		{E1C91866-439B-4A8D-9689-9D5104779DF0} = {5CA81CBE-BF3E-44CC-B1AF-4EA0867EE010}
+		{1556231C-EB98-4D17-8074-7A8F2CAA3A3F} = {65FF82C8-2328-4CE8-A234-83D68E995C8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F9BB915-0952-4338-A276-EAF2633A8F79}
