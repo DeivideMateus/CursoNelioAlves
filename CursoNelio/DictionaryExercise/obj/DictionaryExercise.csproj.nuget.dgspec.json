@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj": {}
+    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj": {
+    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj",
         "projectName": "DictionaryExercise",
-        "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj",
-        "packagesPath": "C:\\Users\\deivide.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\obj\\",
+        "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\DictionaryExercise.csproj",
+        "packagesPath": "C:\\Users\\Deivide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\DictionaryExercise\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\deivide.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Deivide\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
