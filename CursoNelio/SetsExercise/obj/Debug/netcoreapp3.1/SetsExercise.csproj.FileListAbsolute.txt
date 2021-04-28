@@ -11,3 +11,16 @@ C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.dll
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\bin\Debug\netcoreapp3.1\SetsExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetsExercise\obj\Debug\netcoreapp3.1\SetsExercise.genruntimeconfig.cache

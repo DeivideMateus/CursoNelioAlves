@@ -11,3 +11,16 @@ C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.dll
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.exe
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.deps.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csprojAssemblyReference.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfo.cs
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.genruntimeconfig.cache

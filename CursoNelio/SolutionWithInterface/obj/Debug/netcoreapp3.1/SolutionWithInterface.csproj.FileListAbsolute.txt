@@ -10,3 +10,4 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterfa
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.csprojAssemblyReference.cache
