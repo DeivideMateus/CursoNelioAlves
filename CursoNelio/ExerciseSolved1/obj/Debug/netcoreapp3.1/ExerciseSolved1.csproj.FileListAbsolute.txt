@@ -11,3 +11,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\bin\Debug\netcoreapp3.1\ExerciseSolved1.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ExerciseSolved1\obj\Debug\netcoreapp3.1\ExerciseSolved1.genruntimeconfig.cache

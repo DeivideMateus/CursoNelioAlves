@@ -11,3 +11,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterfa
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.genruntimeconfig.cache
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\bin\Debug\netcoreapp3.1\SolutionWithInterface.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithInterface\obj\Debug\netcoreapp3.1\SolutionWithInterface.genruntimeconfig.cache

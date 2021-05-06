@@ -23,3 +23,4 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetExercise2\obj\De
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SetExercise2\obj\Debug\netcoreapp3.1\SetExercise2.csprojAssemblyReference.cache

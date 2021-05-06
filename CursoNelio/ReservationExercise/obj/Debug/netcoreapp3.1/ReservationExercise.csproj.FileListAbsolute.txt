@@ -11,3 +11,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ReservationExercise
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\bin\Debug\netcoreapp3.1\ReservationExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\ReservationExercise\obj\Debug\netcoreapp3.1\ReservationExercise.genruntimeconfig.cache

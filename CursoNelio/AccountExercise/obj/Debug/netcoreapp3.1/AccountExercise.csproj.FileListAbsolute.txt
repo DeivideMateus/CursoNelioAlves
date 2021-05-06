@@ -11,3 +11,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.exe
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\bin\Debug\netcoreapp3.1\AccountExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AccountExercise\obj\Debug\netcoreapp3.1\AccountExercise.genruntimeconfig.cache

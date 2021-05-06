@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj": {}
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj": {
+    "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj",
+        "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj",
         "projectName": "FilesExercise",
-        "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj",
-        "packagesPath": "C:\\Users\\Deivide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deivide\\Documents\\GitHub\\CursoNelioAlves\\CursoNelio\\FilesExercise\\obj\\",
+        "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\FilesExercise\\FilesExercise.csproj",
+        "packagesPath": "C:\\Users\\deivide.nascimento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\Talents2\\CursoNelioAlves\\CursoNelio\\FilesExercise\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Deivide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deivide.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
