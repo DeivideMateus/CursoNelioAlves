@@ -24,3 +24,16 @@ C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.dll
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.exe
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\bin\Debug\netcoreapp3.1\AbstractProposedExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\AbstractProposedExercise\obj\Debug\netcoreapp3.1\AbstractProposedExercise.genruntimeconfig.cache

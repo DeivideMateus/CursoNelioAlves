@@ -24,3 +24,16 @@ C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.dll
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.exe
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\bin\Debug\netcoreapp3.1\OrderProject.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\OrderProject\obj\Debug\netcoreapp3.1\OrderProject.genruntimeconfig.cache

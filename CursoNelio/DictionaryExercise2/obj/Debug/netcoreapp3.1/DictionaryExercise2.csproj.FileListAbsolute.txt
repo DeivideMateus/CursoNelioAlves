@@ -24,3 +24,16 @@ C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.dll
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.pdb
 C:\Users\Deivide\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.exe
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\bin\Debug\netcoreapp3.1\DictionaryExercise2.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\DictionaryExercise2\obj\Debug\netcoreapp3.1\DictionaryExercise2.genruntimeconfig.cache

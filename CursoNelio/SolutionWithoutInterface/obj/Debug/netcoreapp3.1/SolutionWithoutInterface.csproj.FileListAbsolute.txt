@@ -24,3 +24,16 @@ C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.dll
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\Talents2\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.genruntimeconfig.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.exe
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.deps.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.runtimeconfig.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.runtimeconfig.dev.json
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\bin\Debug\netcoreapp3.1\SolutionWithoutInterface.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.csprojAssemblyReference.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.AssemblyInfoInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.AssemblyInfo.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.csproj.CoreCompileInputs.cache
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.dll
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.pdb
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SolutionWithoutInterface\obj\Debug\netcoreapp3.1\SolutionWithoutInterface.genruntimeconfig.cache
