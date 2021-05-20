@@ -139,3 +139,6 @@ C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWeb
 C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\deivide.nascimento\Documents\GitHub\CursoNelioAlves\CursoNelio\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
